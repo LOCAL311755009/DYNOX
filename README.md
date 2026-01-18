@@ -1,3 +1,2 @@
 # DYNOX
-My roblox EXECUTOR
-it use krnl api,you can visit the page here: https://krnl.place
+Experimental executor,intended for testing.Discontinued as of jan 2023
